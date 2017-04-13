@@ -11,7 +11,7 @@
   "assets": {
     "container": {
       "docker": {
-        "grafana-docker": "grafana/grafana:3.1.1"
+        "grafana-docker": "grafana/grafana:4.2.0"
       }
     }
   }
