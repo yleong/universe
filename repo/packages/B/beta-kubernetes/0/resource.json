@@ -2,7 +2,7 @@
   "assets": {
     "uris": {
       "jre-tar-gz": "https://downloads.mesosphere.com/java/jre-8u144-linux-x64.tar.gz",
-      "libmesos-bundle-tar-gz": "https://downloads.mesosphere.io/libmesos-bundle/libmesos-bundle-1.10-1.4-63e0814.tar.gz",
+      "libmesos-bundle-tar-gz": "https://downloads.mesosphere.com/libmesos-bundle/libmesos-bundle-1.9.0-rc1-1.2.0-rc1-1.tar.gz",
       "scheduler-zip": "https://downloads.mesosphere.com/kubernetes/assets/0.1.0-1.7.5-beta/kubernetes-scheduler.zip",
       "executor-zip": "https://downloads.mesosphere.com/dcos-commons/artifacts/0.30.0/executor.zip"
     }
